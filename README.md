@@ -39,7 +39,8 @@ A short description of what this project is about.
 - Input Validation: Ensures valid deposits, withdrawals, and account checks.
 - File Operations: Uses file handling to read, update, and save data.
   
-![Girl working on PC](https://banner2.cleanpng.com/lnd/20240713/wjj/a8j9mw9pj.webp)
+![Girl working on PC](https://www.google.com/imgres?q=laptop%20animation%20of%20girl%20working%20on%20pc&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fwoman-working-laptop-home-vector-illustration-cartoon-style_1142-74343.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fwoman-working-laptop-home-vector-illustration-cartoon-style_149952542.htm&docid=tzjI44HpJJ7brM&tbnid=hpCYdxtyN2kz_M&vet=12ahUKEwitmZzjgaqLAxWQxQIHHfY4HhcQM3oECFMQAA..i&w=626&h=626&hcb=2&ved=2ahUKEwitmZzjgaqLAxWQxQIHHfY4HhcQM3oECFMQAA)
+
 
 
 ## 🎯 Current Learning Goals
