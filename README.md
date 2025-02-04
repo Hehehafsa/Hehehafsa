@@ -19,9 +19,6 @@ Here are some of the technologies and tools I work with:
   - VSCode
   - Figma (for design)
   
-![Tech Stack](https://via.placeholder.com/600x250.png) <!-- Replace with your actual tech stack image -->
-
----
 
 ## 🌟 Projects
 
@@ -30,13 +27,18 @@ Here are some of the cool projects I’ve worked on:
 ### 1. **[Project Name 1]**
 A short description of what this project is about. 
 
-![Project 1](https://via.placeholder.com/400x200.gif) <!-- Replace with a GIF or image of your project -->
+![Project 1](https://github.com/Hehehafsa/Banking-system-1) <!-- Replace with a GIF or image of your project -->
   
-🔗 [Link to Project Repository](https://github.com/yourusername/project1)  
+🔗 [Link to Project Repository](https://github.com/Hehehafsa/Banking-system-1)  
 💡 Features:  
-- Feature 1  
-- Feature 2  
-- Feature 3
+- Account Creation: Users can create a new bank account with unique details.
+- Deposit: Users can deposit money and update the balance.
+- Withdrawal: Users can withdraw money, ensuring sufficient balance.
+- Account Info: Users can view account details (name, number, balance).
+- Data Persistence: Account data is saved in a text file.
+- Input Validation: Ensures valid deposits, withdrawals, and account checks.
+- File Operations: Uses file handling to read, update, and save data.
+  
 
 
 
@@ -76,12 +78,5 @@ Currently, I am improving my skills in:
 
 ---
 
-## 🎬 Check Out My Animated GIFs!
-
-Here’s an animation I created using CSS:
-
-![CSS Animation Example](https://via.placeholder.com/500x200.gif) 
-
----
 
 > Thanks for stopping by! Feel free to explore my repositories and get in touch if you have any questions or suggestions.
