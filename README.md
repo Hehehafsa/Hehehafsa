@@ -1,49 +1,87 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 👋 Hello, I'm [Hafsa Farid]! 👨‍💻
 
-###
+Welcome to my GitHub profile! I’m a **Web Developer** and an **Undergraduate Student** with a passion for learning and building cool stuff.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🧑‍💻 Skills & Technologies
 
-###
+Here are some of the technologies and tools I work with:
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- **Languages**: 
+  - C++
+  - HTML
+  - CSS
+- **Web Development**:
+  - WordPress
+  - Frontend (HTML, CSS)
+  - Backend Basics (C++)
+- **Tools**:
+  - Git
+  - VSCode
+  - Figma (for design)
+  
+![Tech Stack](https://via.placeholder.com/600x250.png) <!-- Replace with your actual tech stack image -->
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 🌟 Projects
 
-###
+Here are some of the cool projects I’ve worked on:
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 1. **[Project Name 1]**
+A short description of what this project is about. 
 
-###
+![Project 1](https://via.placeholder.com/400x200.gif) <!-- Replace with a GIF or image of your project -->
+  
+🔗 [Link to Project Repository](https://github.com/yourusername/project1)  
+💡 Features:  
+- Feature 1  
+- Feature 2  
+- Feature 3
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+## 🎯 Current Learning Goals
+
+Currently, I am improving my skills in:
+
+- Learning advanced **JavaScript** for better dynamic web pages.
+- Exploring **React** and **Vue.js** for building modern web applications.
+- Mastering **C++** for building high-performance applications.
+
+## 🌱 My Learning Journey
+
+- 📚 Reading about **Frontend Development** and **Web Design**.
+- 🖥️ Practicing my **C++** coding skills by solving problems on platforms like **LeetCode** and **HackerRank**.
+- 🚀 Contributing to open-source projects to gain hands-on experience.
+
+---
+
+## 📫 Get in Touch
+
+- Email: [blissfulifehehe@gmail.com]
+- LinkedIn: [Hafsa Farid](https://www.linkedin.com/in/hafsa-farid-453002327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+## 📜 Fun Facts
+
+- I love solving problems with code 🧩.
+- In my free time, I enjoy learning new frameworks, reading tech blogs, and experimenting with **WordPress** plugins.
+
+---
+
+## 🔥 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+## 🎬 Check Out My Animated GIFs!
+
+Here’s an animation I created using CSS:
+
+![CSS Animation Example](https://via.placeholder.com/500x200.gif) 
+
+---
+
+> Thanks for stopping by! Feel free to explore my repositories and get in touch if you have any questions or suggestions.
