@@ -1,6 +1,7 @@
 # 👋 Hello, I'm [Hafsa Farid]! 👨‍💻
 
 Welcome to my GitHub profile! I’m a **Web Developer** and an **Undergraduate Student** with a passion for learning and building cool stuff.
+![Girl working on PC](https://banner2.cleanpng.com/lnd/20240713/wjj/a8j9mw9pj.webp)
 
 ## 🧑‍💻 Skills & Technologies
 
